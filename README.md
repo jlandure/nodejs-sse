@@ -13,3 +13,5 @@ npm start
 ## Test
 
 Connect your browser to `http://localhost:8000` and check the events with the DevTools.
+
+![ScreenShot](https://cloud.githubusercontent.com/assets/525974/13466890/48b10506-e09c-11e5-9fc9-316f58c88c77.png)
